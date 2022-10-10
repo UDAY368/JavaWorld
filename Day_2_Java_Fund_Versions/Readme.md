@@ -25,7 +25,7 @@
 - WORA : Write Once Run Antwhere
 - Note the JDK (JVM) is different for different platforms.
 
-# What is the difference between interpreter and compliler and where Java fits ?
+### What is the difference between interpreter and compliler and where Java fits ?
 
 ### Different Version of Java ?
 
