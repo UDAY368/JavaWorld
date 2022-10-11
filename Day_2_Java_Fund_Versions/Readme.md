@@ -7,6 +7,8 @@
 - First official version of Java relaase at 1996 January
 - Oracle own the sun micro systems at the year of 2011
 
+ ![Java](images/java1.png)
+
 ### Why it is called Java ?
 - Intial development of Java people tried for different name like oka, green, c++++, c++--, and with the developer names all are getting failed
 - They getting demotivated, generally whenever they get demotivated they used to swip a cup of coffe that will refresh them
@@ -24,12 +26,18 @@
     - CASE3: platform (linux) - executable(windows) - It Fails
         - Here compile code at windows but try to execution in Linux it fail 
     - This is called the platform dependency
+ 
+ ![Java](images/java4.png)
 
 ### How the Java language is platform independent ? 
 - Java prog(HLL) (souce file) -> Java Compiler -> Byte code (class file) (Neither HLL nor MLL) (platform independent) -> JVM (Internally use interpreter) -> executable code 
 - So the byte code is platform independent we share the byte code (class files) over internet it can executed in any platform
 - WORA : Write Once Run Antwhere
 - Note the JDK (JVM) is different for different platforms.
+
+![Java](images/java2.png)
+
+![Java](images/java5.png)
 
 ### What is the difference between interpreter and compliler and where Java fits ?
 - Compiler: Basically it is used to translate HLL to MLL here compiler translate entire code at once.
@@ -46,7 +54,11 @@
         - Source code --> Java Compilation --> Bite Code (Compilation)
         - Bite Code --> JVM (uses Interpreter) --> Executable code (MLL) 
 
+![Java](images/java6.jpg)
+
 ### Different Version of Java ?
+
+![Java](images/java3.png)
 
 - Java Project started at - 1991 (Sun micro systems)
 - Java trail versions  -> 1995
