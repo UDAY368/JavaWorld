@@ -2,10 +2,16 @@
 
 ### What is Java ?
 - Java is class based Statically typed platform independent/protable/ORA/WORA Object Oriented Programming language.
-- Java is developed at sun microsystem in USA in the year of 1991 with a 11 member team headed by James Hosling.
+- Java is developed at sun microsystem in USA in the year of 1991 with a 11 member team headed by James Gosling.
 - First trail version Java alpha, beta release at 1995
 - First official version of Java relaase at 1996 January
 - Oracle own the sun micro systems at the year of 2011
+
+### Why it is called Java ?
+- Intial development of Java people tried for different name like oka, green, c++++, c++--, and with the developer names all are getting failed
+- They getting demotivated, generally whenever they get demotivated they used to swip a cup of coffe that will refresh them
+- So, finally they decided that Give the coffee name they used to drink it is from Indonesia that plant called Java.
+- That was the reason the symbol for java also in the coffe cup.
 
 ### How C language is platform dependent ?
 - C programe (HLL) -> Compiler -> object file -> linker (obj + library file) -> executable file(.exe) (platform dependent)
@@ -26,6 +32,19 @@
 - Note the JDK (JVM) is different for different platforms.
 
 ### What is the difference between interpreter and compliler and where Java fits ?
+- Compiler: Basically it is used to translate HLL to MLL here compiler translate entire code at once.
+       - i.e If the code has 100 lines it translate all at once
+       - If any error at any of the line entire code get fails
+       - Ex: C, C++ 
+- Interpreter: It is also translate HLL to MLL but it is executed the code line by line.
+        - i.e The code has 100 line, if 80th line fails before 79 lines code executed
+        - Ex: python
+- Analogy: If the speech going on the speake talks in chines
+        - Case1 : entire 1 hour speech translate in english -> Compiler
+        - Case2 : translate the line by line speech into english -> Interpreter
+- Java : In case of Java it is a Hybride programming language, it uses both Compliation and Interpretation
+        - Source code --> Java Compilation --> Bite Code (Compilation)
+        - Bite Code --> JVM (uses Interpreter) --> Executable code (MLL) 
 
 ### Different Version of Java ?
 
