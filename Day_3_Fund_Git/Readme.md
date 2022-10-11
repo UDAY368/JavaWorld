@@ -129,7 +129,7 @@
 
 ![java](Images/java6.png)
 
-    - Note: Git server physical location where it is installed can't be seen. It would be installed on the colud platform like AWS, Azure, GCP or any datacenters
+   - Note: Git server physical location where it is installed can't be seen. It would be installed on the colud platform like AWS, Azure, GCP or any datacenters
 
 - Git Clinet:
     - Installation of git software
